@@ -91,7 +91,7 @@ body{
   font-size: 14px;
 }
 h1{
-  color: #fff;
+  color: black;
 }
 a{
   background: #1c00b5;
@@ -99,4 +99,25 @@ a{
   aspect-ratio: auto 199 / 41;
   color: #fff;
   height: 41px;
+}
+p{
+  color:green;
+}
+p{
+  text-indent: 50px;
+}
+h1 {
+  text-shadow: 2px 2px red;
+}
+p{
+  font-family: Tahoma, Verdana, sans-serif;
+}
+h3{
+  color: red;
+}
+h4{
+  color: red;
+}
+h2{
+  color: blue;
 }
